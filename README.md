@@ -3,3 +3,6 @@
 
 ### 2
 ![2](https://github.com/basit0298/learn_git/blob/main/2.PNG?raw=true)
+
+### 3
+![3](https://github.com/basit0298/learn_git/blob/main/3.PNG?raw=true)

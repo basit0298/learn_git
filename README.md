@@ -43,4 +43,5 @@
 ### 15
 ![15](https://github.com/basit0298/learn_git/blob/main/15.PNG?raw=true)
 
-
+### 16
+![16](https://github.com/basit0298/learn_git/blob/main/16.PNG?raw=true)

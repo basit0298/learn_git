@@ -30,3 +30,6 @@
 
 ### 11
 ![11](https://github.com/basit0298/learn_git/blob/main/11.PNG?raw=true)
+
+### 12
+![12](https://github.com/basit0298/learn_git/blob/main/12.PNG?raw=true)

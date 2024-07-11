@@ -12,3 +12,6 @@
 
 ### 5
 ![5](https://github.com/basit0298/learn_git/blob/main/5.PNG?raw=true)
+
+### 6
+![5](https://github.com/basit0298/learn_git/blob/main/6.PNG?raw=true)

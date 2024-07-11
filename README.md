@@ -37,4 +37,7 @@
 ### 13
 ![13](https://github.com/basit0298/learn_git/blob/main/13.PNG?raw=true)
 
+### 14
+![14](https://github.com/basit0298/learn_git/blob/main/14.PNG?raw=true)
+
 

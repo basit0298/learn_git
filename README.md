@@ -18,3 +18,6 @@
 
 ### 7
 ![7](https://github.com/basit0298/learn_git/blob/main/7.PNG?raw=true)
+
+### 8
+![8](https://github.com/basit0298/learn_git/blob/main/8.PNG?raw=true)
